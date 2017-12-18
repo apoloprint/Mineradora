@@ -1,0 +1,2 @@
+# Mineradora
+Mineradora de Cryptomoedas
